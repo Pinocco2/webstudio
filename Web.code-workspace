@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/GitHub/Web-studio-new/.vscode"
+		},
+		{
+			"path": "../webstudio/Web-studio-new-main/img"
+		},
+		{
+			"path": "../webstudio/Web-studio-new-main/img-page2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web",
+		"liveServer.settings.port": 5502
+	}
+}
